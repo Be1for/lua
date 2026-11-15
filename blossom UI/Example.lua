@@ -2,7 +2,7 @@ local Blossom;
 if script and script.Parent and script.Parent:FindFirstChild("Blossom") then
     Blossom = require(script.Parent.Blossom);
 else
-    Blossom = loadstring(game:HttpGet(""))();
+    Blossom = loadstring(game:HttpGet("https://raw.githubusercontent.com/Be1for/lua/refs/heads/main/blossom%20UI/Blossom.luau"))();
 end
 
 local Window = Blossom.new({
