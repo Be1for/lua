@@ -1,7 +1,4 @@
 # Blossom UI
-
-Лёгкая и быстрая UI-библиотека для Roblox executor'ов. Один файл, плавные анимации, темы оформления, сохранение конфигов и поиск по всем элементам.
-
 ![Blossom UI](https://raw.githubusercontent.com/Be1for/lua/refs/heads/main/blossom%20UI/UI.png)
 
 ## Содержание
