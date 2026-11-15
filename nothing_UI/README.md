@@ -1,6 +1,6 @@
 # NOTHING UI
 
-[![Nothing Ui](https://uibin.orqan.xyz/api/card?id=62ba24f4-faa5-4cf2-b4fb-d2c4788c2a2d&theme=black)](https://uibin.orqan.xyz/library/62ba24f4-faa5-4cf2-b4fb-d2c4788c2a2d)
+[![Nothing Ui](https://raw.githubusercontent.com/Be1for/lua/refs/heads/main/nothing_UI/image.png)
   
 ## Require Library
 ```lua
