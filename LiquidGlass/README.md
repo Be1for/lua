@@ -2,8 +2,6 @@
 
 **Библиотека интерфейса в стиле iOS 26 «Liquid Glass» для Roblox-скриптов.**
 
-Настоящее матовое стекло с рефракцией, линзообразными краями, пружинной физикой, звуками стекла и 3D-интро. Один файл — работает в любом эксплойтере.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Be1for/lua/refs/heads/main/LiquidGlass/liquidglass.png" alt="LiquidGlass UI" width="720">
 </p>
@@ -685,3 +683,6 @@ LiquidGlass:Notify({
 <p align="center">
   <img src="https://raw.githubusercontent.com/Be1for/lua/refs/heads/main/LiquidGlass/liquidglass.png" alt="LiquidGlass" width="480">
 </p>
+
+
+туторчик писал claude sonnet 5 так как я лентяй
