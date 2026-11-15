@@ -28,7 +28,7 @@ local Blossom;
 if script and script.Parent and script.Parent:FindFirstChild("Blossom") then
     Blossom = require(script.Parent.Blossom);
 else
-    Blossom = loadstring(game:HttpGet("https://raw.githubusercontent.com/mmr1337/Blossom/refs/heads/main/Blossom.luau"))();
+    Blossom = loadstring(game:HttpGet("https://raw.githubusercontent.com/Be1for/lua/refs/heads/main/blossom%20UI/Blossom.luau"))();
 end
 ```
 
@@ -377,3 +377,6 @@ Window:SaveConfig("MyConfig");   -- сохранить текущий конфи
 Window:LoadConfig("MyConfig");   -- загрузить конфиг
 Window:Destroy();                -- полностью удалить интерфейс
 ```
+
+
+писал статью - claude sonnet 5 так как я лентяй
