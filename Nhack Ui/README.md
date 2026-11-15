@@ -1,5 +1,3 @@
-# 🖤 Landryhaxx UI — NH UI Library
-
 ![Превью UI](https://raw.githubusercontent.com/Be1for/lua/refs/heads/main/Nhack%20Ui/Nhack%20Ui.png)
 
 > Чистая, многофункциональная Roblox exploit UI-библиотека на основе **NH UI**.  
